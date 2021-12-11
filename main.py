@@ -74,6 +74,9 @@ class Comment(db.Model):
 # db.create_all()
 
 
+def zero_func():
+    pass
+
 ##CREATE TABLE IN DB
 
 
